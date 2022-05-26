@@ -1,4 +1,4 @@
-# Web Scraping Pgaes with BeautifulSoup
+# Web Scraping Pages with BeautifulSoup
 
 This project was created just for educational proposes.
 
