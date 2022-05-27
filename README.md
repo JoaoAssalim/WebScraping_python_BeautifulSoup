@@ -4,7 +4,7 @@ This project was created just for educational proposes.
 
 The code shows how to do web scraping dynamic content pages using Python and BeautifulSoup.
 
-We use as data the NBA site to extract stats information from players and generate a json file with some top 10 rankings.  
+We use as data the Mercado Livre site to extract information from products and generate a json file with all products.  
 **Important: Educational Purposes Only**
 
 ## Getting Started
